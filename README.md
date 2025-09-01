@@ -13,7 +13,7 @@ The platform aims to provide concept-based learning instead of rote memorization
 Getting Started
 
 1.Clone the repository
-git clone https://github.com/aishvaryarao/eureka.git
+git clone [https://github.com/aishvaryarao/eureka.git](https://github.com/aishvaryarao/eureka-the-online-learning-website)
 2.Navigate to the project folder
 cd eureka
 3.Run the Flask application
