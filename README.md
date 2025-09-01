@@ -11,15 +11,10 @@ Environmental Science
 The platform aims to provide concept-based learning instead of rote memorization. Learners can explore topics at their own pace and gain a deeper understanding of scientific ideas.
 
 Getting Started
-
 1.Clone the repository
-git clone [https://github.com/aishvaryarao/eureka.git](https://github.com/aishvaryarao/eureka-the-online-learning-website)
 2.Navigate to the project folder
-cd eureka
 3.Run the Flask application
-flask run
 4.Open your browser and go to
-http://127.0.0.1:5000
 
 Key Features
 Topic-wise questions and answers to practice and test knowledge
